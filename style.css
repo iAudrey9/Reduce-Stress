@@ -1,0 +1,48 @@
+
+.M{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-color: black;
+}
+.One{
+  background-color: cadetblue;
+  font-style: italic;
+}
+
+.Two{
+  background-color: cornflowerblue;
+  font-style: italic;
+}
+
+.Three{
+  background-color: lavender;
+  font-style: italic;
+}
+.Four{
+  background-color: lightcoral;
+  font-style: italic;
+}
+
+.Five{
+  background-color: thistle;
+  font-style: italic;
+}
+.Six{
+  background-color: tomato;
+  font-style: italic;
+}
+
+
+  body {
+    background-image: url("BG1.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
+    
+    color:black;
+}
+
+.BE{
+  text-align: center;
+}
